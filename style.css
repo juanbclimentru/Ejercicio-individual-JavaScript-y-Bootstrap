@@ -8,7 +8,7 @@ input:focus, textarea:focus {
     box-shadow: 0 0 5px rgba(13, 110, 253, 0.7);
 }
 
-/* Asegurar que el footer siempre esté al final */
+
 body {
     display: flex;
     flex-direction: column;
